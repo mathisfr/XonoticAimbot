@@ -17,5 +17,8 @@ Pour utiliser l'aimbot, suivez ces étapes :
 7. Sélectionnez le nombre de bots souhaité.
 8. Amusez-vous en jeu.
 
+## Information supplémentaire
+Je n'utilise pas de pattern scan pour le projet donc le aimbot fonctionne uniquement pour la version 0.8.6 du jeu.
+
 ### Avertissement
 Ce projet est destiné uniquement à des fins éducatives. Toute utilisation de l'aimbot en violation des conditions d'utilisation du jeu ou des lois applicables est strictement interdite. L'auteur n'assume aucune responsabilité pour un mauvais usage ou des conséquences résultant de l'utilisation de ce logiciel. Utilisez à vos propres risques.
