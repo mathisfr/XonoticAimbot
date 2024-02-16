@@ -189,7 +189,7 @@ DWORD WINAPI threadMain(HMODULE hModule)
     if (Global::moduleBaseAddress != 0x0) {
         RANDOMNAME();
     }
-    std::cout << "[+]   Dll injected ejected" << std::endl;
+    std::cout << "[+]   Dll ejected" << std::endl;
     if (fp)
         fclose(fp);
     FreeConsole();
